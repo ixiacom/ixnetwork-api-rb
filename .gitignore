@@ -1,0 +1,4 @@
+!Build/
+.last_cover_stats
+*.gem
+*.rbc

@@ -1,6 +1,6 @@
 ################################################################################
 #                                                                              #
-#    Copyright © 1997 - 2017 by IXIA                                           #
+#    Copyright © 1997 - 2018 by IXIA                                           #
 #    All Rights Reserved.                                                      #
 #                                                                              #
 ################################################################################
@@ -54,7 +54,7 @@
 #    2. Start all protocols.                                                   #
 #    3. Retrieve protocol statistics.                                          #
 #    4. Retrieve protocol learned info.                                        #
-#    5. Chnage some fields and apply change on the fly                         #
+#    5. Change some fields and apply change on the fly                         #
 #    6. Configure L2-L3 traffic.                                               #
 #    7. Start the L2-L3 traffic.                                               #
 #    8. Retrieve L2-L3 traffic stats.                                          #

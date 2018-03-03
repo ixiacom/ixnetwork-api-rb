@@ -1,7 +1,7 @@
 # -*- coding: cp1252 -*-
 ################################################################################
 #                                                                              #
-#    Copyright © 1997 - 2017 by IXIA                                           #
+#    Copyright © 1997 - 2018 by IXIA                                           #
 #    All Rights Reserved.                                                      #
 #                                                                              #
 ################################################################################
@@ -57,7 +57,7 @@
 #      3. Verify statistics from "Protocols Summary" view                      #
 #      4. Fetch PCC learned information                                        #
 #      5. Configure L2/L3 traffic - source end is the topology2 (PCC) and      #
-#         destinaton end is topology1                                          #
+#         destination end is topology1                                         #
 #      6. Apply and start L2/L3 traffic.                                       #
 #      7. Verify L2/L3 traffic statistics.                                     #
 #      8. Stop traffic.                                                        #
@@ -66,7 +66,7 @@
 #     10. Wait for a few seconds and verify learned info                       #
 #     11. Apply L2/L3 traffic.                                                 #
 #     12. Verify traffic L2/L3 statistics.                                     #
-#     13. Stop traiic.                                                         #
+#     13. Stop traffic.                                                        #
 #     13. Stop all protocols.                                                  #
 ################################################################################
 def assignPorts (ixNet, realPort1, realPort2)

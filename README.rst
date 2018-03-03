@@ -28,5 +28,5 @@ Compatibility Policy
 Related Projects
 ================
 * IxNetwork API Tcl Bindings: https://github.com/ixiacom/ixnetwork-api-tcl
-* IxNetwork API Perl Bindings: https://github.com/ixiacom/ixnetwork-api-pl
 * IxNetwork API Python Bindings: https://github.com/ixiacom/ixnetwork-api-py
+* IxNetwork API Ruby Bindings: https://github.com/ixiacom/ixnetwork-api-rb

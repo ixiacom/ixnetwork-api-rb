@@ -1,6 +1,6 @@
 ################################################################################
 #                                                                              #
-#    Copyright © 1997 - 2017 by IXIA                                           #
+#    Copyright © 1997 - 2018 by IXIA                                           #
 #    All Rights Reserved.                                                      #
 #                                                                              #
 ################################################################################
@@ -46,7 +46,7 @@
 #                                                                              #
 # Description:                                                                 #
 #    This script intends to demonstrate how to use NGPF BFDv6  API             #
-#    It will create 2 BFDv6  topologyes, it will start the emulation and       #
+#    It will create 2 BFDv6  topologies, it will start the emulation and       #
 #    than it will retrieve and display few statistics                          #
 ################################################################################
 def assignPorts (ixNet, realPort1, realPort2)

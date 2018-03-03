@@ -1,6 +1,6 @@
 ################################################################################
 #                                                                              #
-#    Copyright © 1997 - 2017 by IXIA                                           #
+#    Copyright © 1997 - 2018 by IXIA                                           #
 #    All Rights Reserved.                                                      #
 #                                                                              #
 ################################################################################
@@ -57,12 +57,12 @@
 #    5. Enable the Ospfv3 simulated topologies External Route type1, which     #
 #       was disabled by default and apply change on the fly.                   #
 #    6. Retrieve protocol learned info again and notice the difference with    #
-#       previouly retrieved learned info.                                      #
+#       previously retrieved learned info.                                     #
 #    7. Configure L2-L3 traffic.                                               #
 #    8. Configure application traffic.                                         #
 #    9. Start the L2-L3 traffic.                                               #
 #   10. Start the application traffic.                                         #
-#   11. Retrieve Appilcation traffic stats.                                    #
+#   11. Retrieve Application traffic stats.                                    #
 #   12. Retrieve L2-L3 traffic stats.                                          #
 #   13. Stop L2-L3 traffic.                                                    #
 #   14. Stop Application traffic.                                              #

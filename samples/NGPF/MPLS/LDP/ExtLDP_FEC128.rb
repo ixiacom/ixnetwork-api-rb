@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 ################################################################################
 #                                                                              #
-#    Copyright © 1997 - 2017 by IXIA                                           #
+#    Copyright © 1997 - 2018 by IXIA                                           #
 #    All Rights Reserved.                                                      #
 #                                                                              #
 ################################################################################
@@ -49,11 +49,11 @@
 #    This script intends to demonstrate how to use NGPF LDP API.                     #
 #                                                                                    #
 # About Topology:                                                                    #
-#          Within toplogy both Provider Edge(PE) and Provider(P) Routers are created.#
+#         Within topology both Provider Edge(PE) and Provider(P) Routers are created.#
 # created.P router is emulated in the front Device Group(DG), which consists of both #
 # OSPF as routing protocol as well as Basic LDP sessions for Transport Label         #
 # Distribution Protocol. The chained DG act as PE Router, where LDP Extended Martini #
-# is configured for VPN Label distibution protocol.Bidirectional L2-L3 Traffic is    #
+# is configured for VPN Label distribution protocol.Bidirectional L2-L3 Traffic is   #
 # configured in between two CE cloud is created.                                     #
 #     Script Flow:                                                                   #
 #     1. Configuration of protocols.                                                 #
@@ -67,9 +67,9 @@
 #    2. Start the ldp protocol.                                                      #
 #    3. Retrieve protocol statistics.                                                #
 #    4. Retrieve protocol learned info.                                              #
-#    5. Disbale/Enable the ldp FECs and change label & apply change on the fly       #
+#    5. Disable/Enable the ldp FECs and change label & apply change on the fly       #
 #    6. Retrieve protocol learned info again and notice the difference with          #
-#       previouly retrieved learned info.                                            #
+#       previously retrieved learned info.                                           #
 #    7. Configure L2-L3 traffic.                                                     #
 #    8. Start the L2-L3 traffic.                                                     #
 #    9. Retrieve L2-L3 traffic stats.                                                #
